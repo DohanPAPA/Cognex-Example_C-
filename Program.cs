@@ -20,6 +20,8 @@ namespace Example.Runtime
          * that workspace and prints out the score for each match and feature.
          * It also processes a red tool connected to the blue tool.
          */
+
+         // 프로세싱 타임 확인하는 방법
         static void Main(string[] args)
         {
             // Initializes the control
